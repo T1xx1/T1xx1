@@ -5,15 +5,14 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&column=5&margin-h=15&margin-w=15&theme=onestar" />
 
-<br>
-
 - 🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary)
+
+- 🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
 
 - 📖 I’m learning **Express**
 
 - 📚 I'm planning to learn **TypeScript**, and **Bash**
 
-- 🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
 
 - 📫 [Reach me](https://formsubmit.co/el/dubimu)
 
