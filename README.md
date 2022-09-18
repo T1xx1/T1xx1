@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=t1xx1&column=5&margin-h=15&margin-w=15&theme=onestar" />
+<img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
 
 -  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary)
 
@@ -18,12 +18,6 @@
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t1xx1&show_icons=true&locale=en&theme=chartreuse-dark" alt="t1xx1" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1xx1&show_icons=true&locale=en&layout=compact&theme=dark" alt="t1xx1" />
-
-<br>
 
 ## 🧰 Languages
 
@@ -61,8 +55,11 @@
 </a>
 
 <br>
+<br>
 
-## 🔗 Social
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1xx1&show_icons=true&locale=en&layout=compact&theme=dark" alt="t1xx1" />
+
+<br>
 
 <a href="https://instagram.com/t1xx1" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
