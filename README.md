@@ -1,18 +1,22 @@
 <h1 align="center">Hi everyone 👋 I'm Tiziano, welcome to my profile</h1>
 <h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future</h3>
 
+## Index
+- [Contributions](contributions.md)
+- [Languages](#🧰-languages)
+- [Tools](#🛠️-tools)
+- [Links](#links)
+
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
 
 -  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary)
-
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
-
 -  📖 I’m learning **Express**
-
--  📚 I'm planning to learn **TypeScript**, and **Bash**
-
+-  📚 I'm planning to learn
+   -  **TypeScript**
+   -  **Bash**
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
@@ -36,7 +40,7 @@
 
 <br>
 
-## 🛠 Tools
+## 🛠️ Tools
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -61,6 +65,8 @@
 
 <br>
 
+## Links
+
 <a href="https://instagram.com/t1xx1" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
@@ -73,3 +79,7 @@
 <a href="https://stackoverflow.com/users/18803230" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18803230" height="40" width="40" />
 </a>
+
+<br>
+
+[Go up](#index)
