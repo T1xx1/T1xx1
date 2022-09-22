@@ -2,10 +2,10 @@
 <h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future</h3>
 
 ## Index
-- [Contributions](contributions.md)
-- [Languages](#🧰-languages)
-- [Tools](#🛠️-tools)
-- [Links](#links)
+
+-  [Contributions](contributions.md)
+-  [Languages](#🧰-languages)
+-  [Tools](#🛠️-tools)
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t1xx1&show_icons=true&locale=en&theme=chartreuse-dark" alt="t1xx1" />
 
-## 🧰 Languages
+## 🛠️ Languages & tools
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
@@ -39,8 +39,6 @@
 </a>
 
 <br>
-
-## 🛠️ Tools
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -64,8 +62,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1xx1&show_icons=true&locale=en&layout=compact&theme=dark" alt="t1xx1" />
 
 <br>
-
-## Links
 
 <a href="https://instagram.com/t1xx1" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
