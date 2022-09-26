@@ -4,9 +4,7 @@
 ## Index
 
 -  [Contributions](contributions.md)
--  [Languages](#🧰-languages)
--  [Tools](#🛠️-tools)
-
+-  [Languages & tools](#🛠️-languages--tools)
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
@@ -66,7 +64,7 @@
 <a href="https://instagram.com/t1xx1" target="blank">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
-<a href="https://twitter.com/t1xx13" target="blank">
+<a href="https://twitter.com/t1xx11" target="blank">
    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 </a>
 <a href="https://dev.to/t1xx1" target="blank">
