@@ -4,7 +4,7 @@
 ## Index
 
 -  [Contributions](contributions.md)
--  [Languages & tools](#🛠️-languages--tools)
+-  [Languages & tools](#%EF%B8%8F-languages--tools)
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
