@@ -3,25 +3,27 @@
 
 ## Index
 
--  [Contributions](contributions.md)
--  [Languages & tools](#%EF%B8%8F-languages--tools)
+-  [Projects](./projects.md)
+-  [Contributions](./contributions.md)
+-  [About me](#about-me)
+-  [Languages & tools](#languages--tools)
+
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
 
--  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary)
+## About me
+
+-  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary) • [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
--  📖 I’m learning **Express**
--  📚 I'm planning to learn
-   -  **TypeScript**
-   -  **Bash**
+-  📖 I’m learning **TypeScript** • [Roadmap](#roadmap)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t1xx1&show_icons=true&locale=en&theme=chartreuse-dark" alt="t1xx1" />
 
-## 🛠️ Languages & tools
+## Languages & tools
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
@@ -41,12 +43,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="50" height="50" />
-</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </a>
@@ -55,6 +51,15 @@
 </a>
 
 <br>
+
+## Roadmap
+
+-  <meter max="10" value="3"></meter> TypeScript
+-  <meter max="10" value="1"></meter> Git
+-  <meter max="10" value="2"></meter> Express
+-  <meter max="10" value="5"></meter> Electron
+-  <meter max="10" value="0"></meter> Bash
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1xx1&show_icons=true&locale=en&layout=compact&theme=dark" alt="t1xx1" />
