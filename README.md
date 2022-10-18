@@ -46,9 +46,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/express-js.png"/>
-</a>
 
 <br>
 
