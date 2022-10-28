@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋 I'm Tiziano, welcome to my profile</h1>
 <h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future</h3>
 
-## Index
+## 📄 Index
 
 -  [Projects](./projects.md)
 -  [Contributions](./contributions.md)
@@ -14,16 +14,16 @@
 
 ## About me
 
--  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary) • [Projects](./projects.md)
+-  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary) | [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
--  📖 I’m learning **TypeScript** • [Roadmap](#roadmap)
+-  📖 I’m learning **TypeScript** | [Roadmap](#roadmap)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t1xx1&show_icons=true&locale=en&theme=chartreuse-dark" alt="t1xx1" />
 
-## Languages & tools
+## 🛠️ Languages & tools
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
@@ -49,7 +49,7 @@
 
 <br>
 
-## Roadmap
+## 📤 Roadmap
 
 -  <meter max="10" value="3"></meter> TypeScript
 -  <meter max="10" value="1"></meter> Git
