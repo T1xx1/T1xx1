@@ -14,8 +14,8 @@
 
 ## About me
 
--  🌱 I’m working on [Vocabulary](https://github.com/T1xx1/Vocabulary) | [Projects](./projects.md)
--  🤝 I’m looking for help with [AbbrAPI](https://github.com/T1xx1/AbbrAPI)
+-  🌱 I’m working on [Vocabulary](https://github.com/t1xx1/vocabulary) | [Projects](./projects.md)
+-  🤝 I’m looking for help with [AbbrAPI](https://github.com/t1xx1/abbrapi)
 -  📖 I’m learning **TypeScript** | [Roadmap](#roadmap)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
@@ -29,10 +29,10 @@
    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/fluency/50/000000/javascript.png"/>
 </a>
-<a href="https://it.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
+<a href="https://it.wikipedia.org/wiki/markdown" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/ios/50/000000/markdown--v1.png"/></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
@@ -51,11 +51,11 @@
 
 ## 📤 Roadmap
 
--  <meter max="10" value="3"></meter> TypeScript
--  <meter max="10" value="1"></meter> Git
--  <meter max="10" value="2"></meter> Express
--  <meter max="10" value="5"></meter> Electron
--  <meter max="10" value="0"></meter> Bash
+-  <progress max="10" value="3"></progress> TypeScript
+-  <progress max="10" value="1"></progress> Git
+-  <progress max="10" value="2"></progress> Express
+-  <progress max="10" value="5"></progress> Electron
+-  <progress max="10" value="0"></progress> Bash
 
 <br>
 

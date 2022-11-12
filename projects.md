@@ -1,5 +1,11 @@
 # Projects
 
+## 📚 Libraries
+
+-  [Reactyio](https://github.com/t1xx1/reactyio)
+-  [SasScript](https://github.com/t1xx1/sasscript)
+-  [Svg.js](https://github.com/t1xx1/svg.js)
+
 ## 🈸 Apps
 
 -  [Vocabulary](https://github.com/t1xx1/vocabulary)
@@ -8,12 +14,6 @@
 ## 🌐 APIs
 
 -  [AbbrAPI](https://github.com/t1xx1/abbrapi)
-
-## 📚 Libraries
-
--  [Reactyio](https://github.com/t1xx1/reactyio)
--  [SasScript](https://github.com/t1xx1/sasscript)
--  [Svg.js](https://github.com/t1xx1/svg.js)
 
 ## Other
 
