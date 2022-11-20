@@ -15,6 +15,6 @@
 
 -  [AbbrAPI](https://github.com/t1xx1/abbrapi)
 
-## Other
+## Others
 
 -  [SML](https://github.com/t1xx1/sml)
