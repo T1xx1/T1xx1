@@ -5,14 +5,15 @@
 
 -  [Projects](./projects.md)
 -  [Contributions](./contributions.md)
--  [About me](#about-me)
--  [Languages & tools](#languages--tools)
+-  [About me](#❓-about-me)
+-  [Languages & tools](#🛠️-languages--tools)
+- [Roadmap](#📤-roadmap)
 
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=t1xx1&margin-h=15&margin-w=15&theme=onestar" />
 
-## About me
+## ❓ About me
 
 -  🌱 I’m working on [Vocabulary](https://github.com/t1xx1/vocabulary) | [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/t1xx1/abbrapi)
