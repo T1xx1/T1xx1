@@ -7,7 +7,7 @@
 -  [Contributions](./contributions.md)
 -  [About me](#❓-about-me)
 -  [Languages & tools](#🛠️-languages--tools)
-- [Roadmap](#📤-roadmap)
+-  [Roadmap](#📤-roadmap)
 
 <br>
 
@@ -44,19 +44,17 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-</a>
 
 <br>
 
 ## 📤 Roadmap
 
--  <progress max="10" value="3"></progress> TypeScript
--  <progress max="10" value="1"></progress> Git
--  <progress max="10" value="2"></progress> Express
--  <progress max="10" value="5"></progress> Electron
--  <progress max="10" value="0"></progress> Bash
+-  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
+-  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • TypeScript
+-  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • Express
+-  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • Electron
+-  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Git
+-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Bash
 
 <br>
 
