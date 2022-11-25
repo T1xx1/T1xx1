@@ -5,9 +5,9 @@
 
 -  [Projects](./projects.md)
 -  [Contributions](./contributions.md)
--  [About me](#❓-about-me)
--  [Languages & tools](#🛠️-languages--tools)
--  [Roadmap](#📤-roadmap)
+-  [About me](#-about-me)
+-  [Languages & tools](#%EF%B8%8F-languages--tools)
+-  [Roadmap](#-roadmap)
 
 <br>
 
@@ -17,7 +17,7 @@
 
 -  🌱 I’m working on [Vocabulary](https://github.com/t1xx1/vocabulary) | [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/t1xx1/abbrapi)
--  📖 I’m learning **TypeScript** | [Roadmap](#roadmap)
+-  📖 I’m learning **React** | [Roadmap](#roadmap)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
@@ -77,4 +77,4 @@
 
 <br>
 
-[Go up](#index)
+[Go up](#-index)
