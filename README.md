@@ -26,35 +26,30 @@
 
 ## 🛠️ Languages & tools
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/fluency/50/000000/javascript.png"/>
-</a>
-<a href="https://it.wikipedia.org/wiki/markdown" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/ios/50/000000/markdown--v1.png"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-</a>
-
-<br>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</a>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50" width="50"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png" height="50" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50"/>
+<img src="https://img.icons8.com/ios/50/null/markdown--v2.png" height="50" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50" width="50"/>
 
 <br>
 
 ## 📤 Roadmap
 
--  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
--  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • TypeScript
--  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • Express
 -  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • Electron
 -  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Git
 -  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Bash
+-  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
+-  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • Express
+-  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • TypeScript
+
+<img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50" width="50" />
 
 <br>
 
@@ -63,18 +58,20 @@
 <br>
 
 <a href="https://instagram.com/t1xx1" target="blank">
-   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="50" width="50"/>
 </a>
 <a href="https://twitter.com/t1xx11" target="blank">
-   <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="50" />
 </a>
 <a href="https://dev.to/t1xx1" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="t1xx1" height="40" width="40" />
+   <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="t1xx1" height="50" width="50" />
 </a>
 <a href="https://stackoverflow.com/users/18803230" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18803230" height="40" width="40" />
+   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="18803230" height="50" width="50" />
 </a>
 
 <br>
 
 [Go up](#-index)
+
+[Credits](./credits.md)
