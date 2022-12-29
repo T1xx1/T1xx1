@@ -78,6 +78,6 @@
 
 <br>
 
-[Go up](#-index)
-
 [Credits](./credits.md)
+
+## [Go up](#-index)
