@@ -4,6 +4,7 @@
 ## 📄 Index
 
 -  [Projects](./projects.md)
+-  [Gists](https://gist.github.com/t1xx1)
 -  [Contributions](./contributions.md)
 -  [About me](#-about-me)
 -  [Languages & tools](#%EF%B8%8F-languages--tools)
@@ -22,7 +23,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1xx1&show_icons=true&locale=en&theme=chartreuse-dark" alt="t1xx1" />
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=T1xx1&show_icons=true&locale=en&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Languages & tools
 
@@ -45,7 +46,7 @@
 -  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
 -  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • Express
 -  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • TypeScript
--  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • C#
+-  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • C#
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" height="50" width="50" />
@@ -59,7 +60,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1xx1&show_icons=true&locale=en&layout=compact&theme=dark" alt="t1xx1" />
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=T1xx1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
