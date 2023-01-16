@@ -2,9 +2,6 @@
 
 # Projects
 
-## 🗂️ Docs
-- [Missing-features](https://github.com/t1xx1/missing-features)
-
 ## 📚 Libraries
 
 -  [Reactyio](https://github.com/t1xx1/reactyio)

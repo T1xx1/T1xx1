@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋 I'm Tiziano, welcome to my profile</h1>
-<h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future</h3>
+<h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future.</h3>
 
 ## 📄 Index
 
@@ -40,22 +40,27 @@
 
 ## 📤 Roadmap
 
--  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • Electron
--  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Git
--  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Bash
 -  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
+-  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • C#
+-  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • Electron
 -  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • Express
 -  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • TypeScript
--  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • C#
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" height="50" width="50" />
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" />
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50" width="50" />
    <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" height="50" />
+</div>
+
+### Others
+- Git
+- Bash
+
+<div>
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" />
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="50" width="50" />
 </div>
 
 <br>
