@@ -10,7 +10,7 @@
 -  [Languages](#%EF%B8%8F-languages)
 -  [Tools](#%EF%B8%8F-tools)
 -  [Roadmap](#-roadmap)
-- [Social](#-social)
+-  [Social](#-social)
 
 <br>
 
@@ -21,6 +21,7 @@
 -  🌱 I’m working on [Vocabulary](https://github.com/t1xx1/vocabulary) | [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/t1xx1/abbrapi)
 -  📖 I’m learning **React** | [Roadmap](#roadmap)
+- I'm in the [The Desk Gamers](https://github.com/thedeskgamers)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
@@ -66,6 +67,7 @@
 ### Others
 - Git
 - Bash
+- Svelte
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" />
