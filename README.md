@@ -3,12 +3,14 @@
 
 ## 📄 Index
 
+-  [About me](#-about-me)
 -  [Projects](./projects.md)
 -  [Gists](https://gist.github.com/t1xx1)
 -  [Contributions](./contributions.md)
--  [About me](#-about-me)
--  [Languages & tools](#%EF%B8%8F-languages--tools)
+-  [Languages](#%EF%B8%8F-languages)
+-  [Tools](#%EF%B8%8F-tools)
 -  [Roadmap](#-roadmap)
+- [Social](#-social)
 
 <br>
 
@@ -25,20 +27,25 @@
 
 [![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=T1xx1&show_icons=true&locale=en&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Languages & tools
+## 🗃️ Languages
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50" width="50" />
    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" height="50" width="50" />
-   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" />
    <img src="https://img.icons8.com/ios/50/null/markdown--v2.png" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="50" width="50" />
 </div>
 
+## 🛠️ Tools
+
+<div>
+   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" />
+</div>
+
 <br>
 
-## 📤 Roadmap
+## 🎯 Roadmap
 
 -  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
 -  🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛ • C#
@@ -69,18 +76,20 @@
 
 <br>
 
+## 🌐 Social
+
 <div>
    <a href="https://instagram.com/t1xx1" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" />
+      <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" />
    </a>
    <a href="https://twitter.com/t1xx11" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="30" />
+      <img src="https://vectorlogo.zone/logos/twitter/twitter-official.svg" height="30" />
    </a>
    <a href="https://dev.to/t1xx1" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="t1xx1" height="30" />
+      <img src="https://vectorlogo.zone/logos/devto/devto-icon.svg" alt="t1xx1" height="30" />
    </a>
    <a href="https://stackoverflow.com/users/18803230" target="blank">
-      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="18803230" height="30" />
+      <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="18803230" height="30" />
    </a>
 </div>
 
