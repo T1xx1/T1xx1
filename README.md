@@ -1,6 +1,8 @@
 <h1 align="center">Hi everyone 👋 I'm Tiziano, welcome to my profile</h1>
 <h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future.</h3>
 
+![](https://img.shields.io/github/stars/t1xx1?style=social)
+
 ## 📄 Index
 
 -  [About me](#-about-me)
