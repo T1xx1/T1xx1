@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone 👋 I'm Tiziano, welcome to my profile</h1>
-<h3 align="center">I'm a 17yo frontend dev looking for building desktop apps in the future.</h3>
+<h1 align="center">Hi everyone 👋, I'm Tiziano welcome to my profile</h1>
+<h3 align="center">I'm a 17y.o. frontend dev looking to build desktop apps in the future.</h3>
 
 ![](https://img.shields.io/github/stars/t1xx1?style=social)
 
@@ -23,7 +23,7 @@
 -  🌱 I’m working on [Vocabulary](https://github.com/t1xx1/vocabulary) | [Projects](./projects.md)
 -  🤝 I’m looking for help with [AbbrAPI](https://github.com/t1xx1/abbrapi)
 -  📖 I’m learning **React** | [Roadmap](#roadmap)
-- I'm in the [The Desk Gamers](https://github.com/thedeskgamers)
+-  I'm one owner of [The Desk Gamers](https://github.com/thedeskgamers)
 -  📫 [Reach me](https://formsubmit.co/el/dubimu)
 
 <br>
@@ -67,9 +67,10 @@
 </div>
 
 ### Others
-- Git
-- Bash
-- Svelte
+
+-  Git
+-  Bash
+-  Svelte
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" />
