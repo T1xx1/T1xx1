@@ -44,13 +44,13 @@
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" />
+   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" width="50" />
 </div>
 
 <br>
 
 ## 🎯 Roadmap
 
--  🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛ • React
 -  🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛ • C#
 -  🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ • Unity
 -  🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛ • Electron
@@ -60,7 +60,6 @@
 <div>
    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" width="50" />
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" width="50" />
    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50" width="50" />
    <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" height="50" />
    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="50" />
